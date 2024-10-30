@@ -1,3 +1,7 @@
+### Jekyll sivuston automatistointi GitHub-Actionsin avulla
+
 Jekyll sivustoja voisi automatisoida GitHub-Actionsin toiminnoilla esimerkiksi päivittymään automaattisesti aina kun muutoksia tehdään ja ajetaan GitHub-repositorioon. Tätä hyödynnetään esimerkiksi YAML workflow tiedosto. Käytännössä se voisi toimia niin, että YAML tiedostoon laitetaan sivuston rakentamisen ja julkaisun eri vaiheet. Esimerkiksi koodi ladataan, Jekyll rakentaa sen jälkeen sivuston ja lopuksi valmis sivu julkaistaan GitHub Pagesiin. Jokainen muutos workflown repositorioon käynnistää prosessin, millä varmistetaan, että uusin version on aina ajantasalla ja näkyy GitHub Pagesilla.
+
+### Kehitystyökalut & tekniikat CI/CD-putkiston rakentamisessa web-sovellukselle
 
 Web-sovellukselle saadaan CI/CD-putkisto rakennettua esimerkiksi Git:iä käyttämällä, sillä se on yksi keskeisimmistä työkalusita versionhallintaan. Sillä saadaan koodimuutoksia helposti seurattua ja ingeroitua. Tähän voitaisiin yhdistää joku sovellusten ajamiseen tarkoitettu muoto, mikä toimii hyvin yhdessä Git kanssa, kuten esimerkiksi Docker millä päästään toteuttamaan testausta ja käyttöönottoa.  GitHub Actions on toki myös pilvipalvelu, jolla mahdollistetaan automaatio ja CI/CD -työkulun helppo luominen.
