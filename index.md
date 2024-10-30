@@ -1,7 +1,3 @@
----
-title: Tervetuloa GitHub Pages -sivustolleni!
----
-
 # Tervetuloa GitHub Pages -sivustolleni!
 
 GitHub Pages Sivuni, jossa Jekyll teema
