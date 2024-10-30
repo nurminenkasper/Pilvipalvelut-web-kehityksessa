@@ -1,6 +1,6 @@
 # Tervetuloa GitHub Pages -sivustolleni!
 
-Kasper Nurmisen ylläpitämä GitHub Pages sivu, jossa käytössä [Minimal Jekyll teema](https://github.com/pages-themes/minimal?tab=readme-ov-file).
+Kasper Nurmisen ylläpitämä GitHub Pages sivu, jossa käytössä [Minimal Jekyll teema](https://github.com/pages-themes/minimal).
 
 Täältä löytyvät tehtäväpalautukset:
 
