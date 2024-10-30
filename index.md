@@ -2,7 +2,7 @@
 
 Kasper Nurmisen ylläpitämä GitHub Pages sivu, jossa käytössä [Minimal Jekyll teema](https://github.com/pages-themes/minimal).
 
-Täältä löytyvät tehtäväpalautukset:
+**Täältä löytyvät tehtäväpalautukset:**
 
 - [Viikko 1](viikko1.md)
 - [Viikko 2](viikko2.md)
