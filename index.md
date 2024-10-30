@@ -1,6 +1,6 @@
 # Tervetuloa GitHub Pages -sivustolleni!
 
-GitHub Pages Sivuni, jossa Jekyll teema
+Kasper Nurmisen ylläpitämä GitHub Pages Sivu, jossa käytössä Minimal Jekyll teema.
 
 Täältä löytyvät tehtäväpalautukset:
 
