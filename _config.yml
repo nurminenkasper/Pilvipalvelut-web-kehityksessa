@@ -1,6 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-gem "github-pages", group: :jekyll_plugins
+plugins: jekyll-remote-theme
 title: Pilvipalvelut web-kehityksessä DIG001AS3A-3003
 description: Sivustolta löydät Kasper Nurminen tehtävät liittyen Haaga-Helian kurssiin Pilvipalvelut web-kehityksessä!
