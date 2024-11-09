@@ -6,7 +6,7 @@ Kasper Nurmisen ylläpitämä GitHub Pages sivu, jossa käytössä [Minimal Jeky
 
 - [Viikko 1](viikko1.md)
 - [Viikko 2](viikko2.md)
-- Viikko 3
+- [Viikko 3](viikko3)
 - Viikko 4
 - Viikko 5
 - Viikko 6
