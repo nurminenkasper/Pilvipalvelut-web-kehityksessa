@@ -11,4 +11,3 @@ Kasper Nurmisen ylläpitämä GitHub Pages sivu, jossa käytössä [Minimal Jeky
 - [Viikko 5](viikko5/viikko5.md)
 - [Viikko 6](viikko6/index.html)
 - [Harjoitustyö](harjoitustyö/index.html)
-- 
